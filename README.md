@@ -16,11 +16,11 @@ We welcome contributions from our users! To suggest a new feature:
 
 1. **Check the Roadmap & Issues**
 
-   - Before submitting a request, check the **[Roadmap](https://github.com/your-repo/projects)** and **[Issues](https://github.com/your-repo/issues)** to see if your feature is already being considered or worked on.
+   - Before submitting a request, check the **[Roadmap](https://github.com/orgs/catalystbyzoho/projects/1/views/1)** and **[Issues](https://github.com/catalystbyzoho/catalyst-roadmap/issues)** to see if your feature is already being considered or worked on.
    - If an issue already exists, upvote it with a 👍 and add any relevant comments instead of creating a duplicate.
 2. **Submit a New Feature Request**
 
-   - Go to the **[Issues](https://github.com/your-repo/issues)** tab.
+   - Go to the **[Issues](https://github.com/catalystbyzoho/catalyst-roadmap/issues)** tab.
    - Click on **New Issue**.
    - Select the **Feature Request** template.
    - Fill in the details and submit.
@@ -39,13 +39,11 @@ We track feature development through the following stages:
 - 🛠 **Early Access** – Available for limited testing and feedback.
 - 🚀 **Just Shipped** – Fully released and live for everyone!
 
-Check the **[Projects](https://github.com/your-repo/projects)** tab for real-time updates.
-
 ## 🙌 Contributing Guidelines
 
 We appreciate community input! Here’s how you can help:
 
-- **Search before submitting** – Avoid duplicate requests by checking existing **[Issues](https://github.com/your-repo/issues)** and **[Roadmap](https://github.com/your-repo/projects)**.
+- **Search before submitting** – Avoid duplicate requests by checking existing **[Issues](https://github.com/catalystbyzoho/catalyst-roadmap/issues)** and **[Roadmap](https://github.com/orgs/catalystbyzoho/projects/1/views/1)**.
 - **Be clear and detailed** – Provide as much information as possible in your request, including the problem it solves, its benefits, and any potential alternatives.
 - **Engage in discussions** – Comment on issues to provide feedback, suggest improvements, or ask questions.
 - **Upvote relevant requests** – Use 👍 reactions on feature requests you support instead of creating duplicates.
